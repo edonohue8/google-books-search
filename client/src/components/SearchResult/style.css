@@ -1,0 +1,32 @@
+.card {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000000;
+    background-color: #f6e58d;
+}
+
+.imageStyling {
+    text-align: center;
+}
+
+.bookTitle {
+    text-align: center;
+}
+
+.bookAuthors {
+    text-align: center;
+}
+
+.bookDescription {
+    text-align: left;
+}
+
+.saveButton {
+    background-color: #3498db;
+    color: #FFFFFF;
+}
+
+.viewButton {
+    background-color: #3498db;
+    color: #FFFFFF;
+}
