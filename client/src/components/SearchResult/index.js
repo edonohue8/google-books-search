@@ -3,7 +3,7 @@ import "./style.css";
 
 const SearchResult = props => {
     return (
-        <div>
+        <div className="searchBox">
             <h3>Search Results</h3>
             {props.books.map(book => {
                 return (

@@ -1,7 +1,16 @@
 .jumbotron {
+    background-image: url("./books-banner.jpg");
+    /* image url credit: https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=3150&q=80 */
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding-top: 10;
+    text-align: center;
+    width: 100%;
 }
 
-h1 {
+/* h1 {
     text-align: center;
-}
+    color: white;
+} */

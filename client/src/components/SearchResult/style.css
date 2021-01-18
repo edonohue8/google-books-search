@@ -1,8 +1,8 @@
 .card {
+    background-color: #f6e58d;
+    border-color: #000000;
     border-style: solid;
     border-width: 1px;
-    border-color: #000000;
-    background-color: #f6e58d;
 }
 
 .imageStyling {
@@ -24,6 +24,12 @@
 .saveButton {
     background-color: #3498db;
     color: #FFFFFF;
+}
+
+.searchBox {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
 }
 
 .viewButton {

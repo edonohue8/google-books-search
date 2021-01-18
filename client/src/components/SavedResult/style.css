@@ -26,6 +26,12 @@
     color: #FFFFFF;
 }
 
+.savedBox {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
 .view {
     background-color: #3498db;
     color: #FFFFFF;

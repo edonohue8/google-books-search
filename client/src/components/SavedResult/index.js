@@ -3,7 +3,7 @@ import "./style.css";
 
 const SavedResult = props => {
     return (
-        <div>
+        <div className="savedBox">
             <h2>My Saved Books</h2>
             {props.savedBooks.map(savedbook => {
                 return (

@@ -5,7 +5,7 @@ function Jumbotron() {
     return (
         <div className="jumbotron text-center">
             <div className="container text-dark">
-                <h1>Google Books Search</h1>
+                {/* <h1>Welcome!</h1> */}
             </div>
         </div>
     );
